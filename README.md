@@ -1,4 +1,4 @@
-# SortAlgoritms
+# SortAlgorithms
 
 **Firts run**: 
   - install node.js modelus to your PC
